@@ -13,6 +13,7 @@
         <link rel="stylesheet" href="/AD_Network/assets/css/guest.css"/>
     </head>
     <body>
+        <!--abc-->
         <div id="details" class="d-flex justify-content-around container-fluid" style="padding: 0px;">
             <div class="col-8 bg-dark" style="height: 300px; padding: 50px 30px 50px 30px">
                 <div class="container-fluid d-flex justify-content-around">
